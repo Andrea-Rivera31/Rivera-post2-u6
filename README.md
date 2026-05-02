@@ -2,10 +2,11 @@
 
 ## Información del Estudiante
 * **Nombre:** Andrea Valentina Rivera Fernández
+* **Código:** 1152444
 * **Institución:** Universidad Francisco de Paula Santander (UFPS)
 * **Materia:** Arquitectura de Computadores
 * **Unidad:** 6 - Post-Contenido 2
-* **Fecha:** Abril, 2026
+* **Año:** 2026
 
 ## Resumen del Proyecto
 Este laboratorio demuestra la implementación y verificación de cuatro modos de direccionamiento fundamentales en la arquitectura x86: **Inmediato, Directo, Indirecto por Registro e Indexado**. Se utilizó NASM para la compilación y DEBUG en DOSBox para el rastreo de registros y memoria.
